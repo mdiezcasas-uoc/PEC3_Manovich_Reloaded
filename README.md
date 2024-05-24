@@ -3,7 +3,7 @@
 **Autor:** Marta Díez Casas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Fecha:** Marzo del 2024
 
 ![Cultura Digital](images/manovich.png) 
-
+<small>Fotografía de Lev Manovich. Fondo generado con Inteligencia Artificial. &nbsp;&nbsp;&nbsp; _Fuente: [Manovich](http://manovich.net/index.php/about)_.</small>
 
 
 ## ¿Qué es la «_hibridación de medios_»?
@@ -16,12 +16,12 @@ La **hibridación de medios**, según Lev Manovich en su libro _El software toma
 
 Muchos os estaréis preguntando si esto no es un caso multimedia, o qué diferencia hay entre estos dos conceptos. Pues bien, no en vano Manovich dedica un apartado para comparar ambos conceptos en el capítulo 3 de su libro —título que le tomo prestado para encabezar esta pequeña sección—. Si bien estos dos conceptos son muy similares y pueden llevar a confusión al lector, hay formas de diferenciarlos.
 
-> [«Multimedia»] Este término se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios. [...] _La multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje._ - (Manovich, 2013)
+> [«Multimedia»] Este término se popularizó en los noventa para describir aplicaciones y documentos electrónicos en los que convivían, de forma contigua, distintos tipos de medios. [...] _La multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje._ - Manovich, 2013
 
 Es decir, en la **multimedia**, los medios aparecen uno junto al otro y en ningún caso se combinan o se mezclan.
 
 > Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. 
-Es decir, se fusionan para ofrecer una experiencia nueva y coherente [...] Los medios híbridos confluyen lenguajes previos y diferenciados, intercambian propiedades, crean nuevas estructuras e interaccionan a niveles más profundos. - (Manovich, 2013)
+Es decir, se fusionan para ofrecer una experiencia nueva y coherente [...] Los medios híbridos confluyen lenguajes previos y diferenciados, intercambian propiedades, crean nuevas estructuras e interaccionan a niveles más profundos. - Manovich, 2013
 
 Mientras que en la **hibridación** obtenemos un nuevo lenguaje fruto de la interacción de los medios que Manovich denomina _metalenguaje_.
 
@@ -41,6 +41,7 @@ Una aclarados los términos, en este ensayo mi intención es profundizar en el c
 ## ClickUp, una aplicación para sustituirlas a todas
 
 ![Logo de ClickUp](images/clickup.png)
+<small>Captura de pantalla de la página web de ClickUp. &nbsp; _Fuente: [ClickUp](https://clickup.com/)_.</small>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -54,6 +55,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Re-descubriendo la hibridacion mediante un sistema de reconocimiento de plantas
 ![Reconocimiento de plantas](images/plantas.png)
+<small>Mockup con los resultados ofrecidos por el sistema de reconocimeitno de plantas de iPhone. &nbsp; _Fuente: [El Español](https://www.elespanol.com/vivir/ocio/20230524/increible-truco-identificar-plantas-camara-iphone/765923681_0.html)_.</small>
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -69,8 +72,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, L. [Lev] (2013). _El Software toma el mando_. Barcelona: Editorial UOC. 
+<!--
+    * http://manovich.net/index.php/about
 
+-->
 
 ----
 
