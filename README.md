@@ -3,7 +3,7 @@
 **Autor:** Marta Díez Casas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Fecha:** Marzo del 2024
 
 ![Cultura Digital](images/manovich.png) 
-<small>Fotografía de Lev Manovich. Fondo generado con Inteligencia Artificial. &nbsp;&nbsp;&nbsp; _Fuente: [Manovich](http://manovich.net/index.php/about)_.</small>
+<small>Fotografía de Lev Manovich. Fondo generado con Inteligencia Artificial. &nbsp; _Fuente: [Manovich](http://manovich.net/index.php/about)_.</small>
 
 
 ## ¿Qué es la «_hibridación de medios_»?
@@ -32,10 +32,8 @@ Admito que son conceptos que confunden bastante. Durante mi estudio y la lectura
 
 Si tenemos en cuenta que la **remediación** se centra en la adaptación y reinterpretación de un medio preexistente para crear un nuevo medio con nuevas propiedades y que la **hibridación** se puede dar en diferentes niveles: en la interacción con el medio, en el medio en sí o en ambos niveles. Podemos afirmar que la **remediación es un tipo de hibridación** en tanto en cuanto la estrategia de hibridación se da en el propio medio. Sin embargo, no podemos olvidar que el concepto de hibridación es mucho más amplio.
 
-Una aclarados los términos, en este ensayo mi intención es profundizar en el concepto de **hibridación** analizando de qué forma se produce dicha hibridación mediante el analisis de dos ejemplos de hibridación modernos como ClickUp y el Sistema de reconocimeinto de plantas integrado en la aplicación Fotos de iPhone. 
+Una aclarados los términos, en este ensayo mi intención es profundizar en el concepto de **hibridación** analizando de qué forma se produce dicha hibridación mediante el análisis de dos ejemplos de hibridación modernos como ClickUp y el Sistema de reconocimiento de plantas integrado en la aplicación Fotos de iPhone. 
 
-
-<br>
 
 
 ## ClickUp, una aplicación para sustituirlas a todas
@@ -49,8 +47,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-<br>
 
 
 ## Re-descubriendo la hibridacion mediante un sistema de reconocimiento de plantas
