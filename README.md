@@ -97,7 +97,8 @@ Actualmente estamos sumergidos de lleno en esta etapa de la evolución en la que
 En este ensayo hemos abordado la hibridación en base a dos ejemplos muy distintos de híbridos que nos ha permitido corroborar que la hibridación se produce en múltiples dimensiones y capas. Permitiendo un desarrollo a nivel general en la que los medios y las técnicas de interacción hibridan para formar un «todo» como es el caso de ClickUp. A la vez que hemos comprobado que la hibridación también se desarrolla a niveles más profundos, como en los datos, que se agrupan para formar nuevas combinaciones que a su vez formarán parte de nuevos híbridos como es el caso de Visual Look Up.
 
 
-### Referencias y Bibliografía
+
+## Referencias y Bibliografía
 * ALBERICH-PASCUAL, Jordi. Elementos de la creatividad multimedia: apropiación,remediación, hibridación. En: _Mosaic_ [en línea]. 2018. [consulta: 20 de mayo de 2024]. Disponible en: https://www.researchgate.net/publication/322834908_Elementos_de_la_creatividad_multimedia_apropiacion_remediacion_hibridacion
 
 * ALBERICH-PASCUAL, Jordi. Fundamentos y evolución de la multimedia. En: _Mosaic_ [en línea]. 2018. [consulta: 20 de mayo de 2024]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
