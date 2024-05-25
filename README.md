@@ -34,7 +34,7 @@ Si tenemos en cuenta que la **remediación** se centra en la adaptación y reint
 
 Una vez aclarados los términos, en este ensayo mi intención es profundizar en el concepto de **hibridación** analizando de qué forma se produce dicha hibridación mediante el análisis de dos ejemplos de hibridación modernos como ClickUp y el Sistema de reconocimiento de plantas integrado en la aplicación Fotos de iPhone. 
 
-<br>
+
 
 ## ClickUp, una aplicación para sustituirlas a todas
 
@@ -59,33 +59,60 @@ Asimismo, esta aplicación también combina herramientas de gestión de tareas, 
 
 La interfaz de usuario y esta remezcla de herramientas que se da en ClickUp ha acabado creando un nuevo lenguaje, o más bien dicho, un **«metalenguaje»** que condiciona y modifica el flujo de trabajo de los usuarios. Cualquier proyecto, tarea o documento que se cree en este medio híbrido puede utilizar todas las técnicas que quiera que antes eran exclusivas de cada medio (Manovich 2013).
 
-<br>
+
 
 ## Re-descubriendo la hibridación mediante un sistema de reconocimiento de plantas
+
+Una vez analizada la **hibridación** en una aplicación como ClickUp en la que hemos detectado una **hibridación profunda**. Vamos a analizar una funcionalidad específica integrada en una aplicación para discernir si es posible la **hibridación a diferentes niveles** como defiende Lev Manovich en su libro El software toma el mando (2013). En concreto, vamos a analizar el sistema de reconocimiento de plantas integrado en la aplicación Fotos de iPhone.
+
+Este sistema recibe el nombre de _Visual Look Up_ y no solo sirve para identificar una planta, sino que **permite reconocer y obtener información sobre elementos que aparecen dentro de una imagen** como obras de arte, monumentos, mascotas, insectos, flores, etc. Sin embargo, para este análisis nos centraremos únicamente en el reconocimiento de plantas.
+
 ![Reconocimiento de plantas](images/plantas.png)
 <small>Mockup con los resultados ofrecidos por el sistema de reconocimeitno de plantas de iPhone. &nbsp; - &nbsp; _Fuente: [El Español](https://www.elespanol.com/vivir/ocio/20230524/increible-truco-identificar-plantas-camara-iphone/765923681_0.html)_.</small>
 
+Su funcionamiento es muy sencillo: tomamos una foto, le damos al icono de información —siempre que esté acompañado de unas estrellas—, luego le damos a la opción “Consultar - Planta” que viene indicada con un icono de una hoja y automáticamente recibiremos información sobre ésta. Concretamente un listado de enlaces a Wikipedia con información referente a la planta fotografiada junto a imágenes similares que nos pueden servir para encontrar más información.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Visual Look Up combina un **medio** tradicional como es la imagen con algoritmos avanzados de procesamiento y análisis de imágenes, accede a extensos **«bancos de memoria informatizados»** (Huyssen 1986) que contienen información sobre miles de especies de plantas utilizando algoritmos de Inteligencia Artificial para comparar nuestra foto con las imágenes y los datos almacenados.
+
+> Ahora todas las técnicas, formas e imágenes modernas y vanguardistas están guardadas en los bancos de memoria informatizados de nuestra cultura y podemos acceder a ellos al instante. - (Huyssen 1986)
+
+En resumen, podemos decir que Visual Look Up es un claro ejemplo de **hibridación de medios** en base a la siguiente cita:
+
+> [En la hibridación] Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones. - (Manovich 2013)
+
+Es decir, Visual Look Up combina la imágen (formatos de representación de medios físicos y electrónicos anteriores) con algoritmos de procesamiento y análisis de imágenes (nuevas técnicas de manipulación de la información) para ofrecer una experiencia rica y multifacética a sus usuarios (nuevas combinaciones).
+
+Por lo tanto, la **hibridación**, en este caso, no se da en un aspecto visual como el medio o la interfaz de usuario, sino que se da a un nivel más profundo, concretamente en los **datos**. Visual Look Up **integra datos de múltiples fuentes**, como bases de datos botánicas, información geolocalizada (GPS), y datos obtenidos de algoritmos de reconocimiento de imágenes y aprendizaje automático que permite proporcionar al usuario información explícita sobre la planta.
 
 
-<br>
 
 ## Conclusión
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Podemos afirmar que Lev Manovich está bien encaminado al hablar de la **hibridación de medios** como una **etapa de la evolución del metamedio ordenador**. 
 
-<br>
+> Traducidos al software, los diversos tipos de medios empezaron a actuar como especies en una ecología compartida; en este caso, un entorno de software compartido. Una vez «liberados» a este entorno, han empezado a interaccionar, mutar y producir híbridos. - (Manovixh 2013)
+
+Actualmente estamos sumergidos de lleno en esta etapa de la evolución en la que los medios se combinan, interaccionan y se remezclan para crear nuevos paradigmas que toman un papel fundamental en la transformación digital y, por ende, en nuestra cultura digital.
+
+En este ensayo hemos abordado la hibridación en base a dos ejemplos muy distintos de híbridos que nos ha permitido corroborar que la hibridación se produce en múltiples dimensiones y capas. Permitiendo un desarrollo a nivel general en la que los medios y las técnicas de interacción hibridan para formar un «todo» como es el caso de ClickUp. A la vez que hemos comprobado que la hibridación también se desarrolla a niveles más profundos, como en los datos, que se agrupan para formar nuevas combinaciones que a su vez formarán parte de nuevos híbridos como es el caso de Visual Look Up.
 
 
 ### Referencias y Bibliografía
+* ALBERICH-PASCUAL, Jordi. Elementos de la creatividad multimedia: apropiación,remediación, hibridación. En: _Mosaic_ [en línea]. 2018. [consulta: 20 de mayo de 2024]. Disponible en: https://www.researchgate.net/publication/322834908_Elementos_de_la_creatividad_multimedia_apropiacion_remediacion_hibridacion
+
 * ALBERICH-PASCUAL, Jordi. Fundamentos y evolución de la multimedia. En: _Mosaic_ [en línea]. 2018. [consulta: 20 de mayo de 2024]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 
-* ALBERICH-PASCUAL, Jordi. Elementos de la creatividad multimedia: apropiación,remediación, hibridación. En: _Mosaic_ [en línea]. 2018. [consulta: 20 de mayo de 2024]. Disponible en: https://www.researchgate.net/publication/322834908_Elementos_de_la_creatividad_multimedia_apropiacion_remediacion_hibridacion
+* BERNAL RASPALL, David. Identificar plantas, animales o monumentos gracias a la cámara de nuestro iPhone: si tienes iOS 16 así puedes hacerlo. En: _Applesfera_ [en línea]. 2023. [consulta: 25 de mayo de 2024]. Disponible en: https://www.applesfera.com/tutoriales/asi-podemos-identificar-cualquier-planta-gracias-a-camara-nuestro-iphone-apps-terceros
 
 * _ClickUp™ | One app to replace them all_ [en línea] [fecha de consulta: 25 de mayo de 2024]. Disponible en: https://clickup.com/
 
 * _ClickUp - Wikipedia_ [en línea] [fecha de consulta: 25 de mayo de 2024]. Disponible en: https://en.wikipedia.org/wiki/ClickUp
+
+* EL ESPAÑOL. El increíble truco para identificar plantas con la cámara del iPhone. En: _El Español_ [en línea]. 2023. [consulta: 25 de mayo de 2024]. Disponible en: https://www.elespanol.com/vivir/ocio/20230524/increible-truco-identificar-plantas-camara-iphone/765923681_0.html
+
+* HUYSSEN, Andreas. _After the Great Divide_. Bloomington e Indianapolis: Indiana University Press, 1986.
+
+* _Look up what's in a photo with your iPhone or iPad - Apple Support_ [en línea] [fecha de consulta: 25 de mayo de 2024]. Disponible en: https://support.apple.com/en-us/104962
 
 * MALAS, Faisal. Las diez mejores herramientas de gestión de proyectos en 2024 (funciones, ventajas y desventajas). En: Blog de ClickUp [en línea]. 2024. [consulta: 25 de mayo de 2024]. Disponible en: https://clickup.com/es/blog/mejores-herramientas-de-gestion-de-proyectos#:~:text=ClickUp%20es%20una%20herramienta%20de,entrega%20con%20la%20calidad%20esperada.
 
@@ -93,17 +120,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * RUBIO, Francisco. ClickUp: qué es y para qué sirve. En:Expacio Web [en línea]. 2023. [consulta: 25 de mayo de 2024]. Disponible en: https://www.expacioweb.com/clickup-que-es-y-para-que-sirve/
 
-<!--
-    WEB: _Título_ [en línea] [fecha de consulta: 25 de mayo de 2024]. Disponible en: URL
-
-    ARTÍCULO: APELLIDO/S DEL AUTOR/A, Nombre del autor/a. Título del artículo electrónico. En: Título de la revista en cursiva [en línea]. Año de publicación. [consulta: 25 de mayo de 2024]. Disponible en: URL
-
-    --------------------------------------------------------------------
-
-    * 
-
--->
-
-----
 
 <!-- Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) -->
