@@ -90,7 +90,7 @@ Por lo tanto, la **hibridación**, en este caso, no se da en un aspecto visual c
 
 Podemos afirmar que Lev Manovich está bien encaminado al hablar de la **hibridación de medios** como una **etapa de la evolución del metamedio ordenador**. 
 
-> Traducidos al software, los diversos tipos de medios empezaron a actuar como especies en una ecología compartida; en este caso, un entorno de software compartido. Una vez «liberados» a este entorno, han empezado a interaccionar, mutar y producir híbridos. - (Manovixh 2013)
+> Traducidos al software, los diversos tipos de medios empezaron a actuar como especies en una ecología compartida; en este caso, un entorno de software compartido. Una vez «liberados» a este entorno, han empezado a interaccionar, mutar y producir híbridos. - (Manovich 2013)
 
 Actualmente estamos sumergidos de lleno en esta etapa de la evolución en la que los medios se combinan, interaccionan y se remezclan para crear nuevos paradigmas que toman un papel fundamental en la transformación digital y, por ende, en nuestra cultura digital.
 
