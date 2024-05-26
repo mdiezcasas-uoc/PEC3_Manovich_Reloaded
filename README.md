@@ -32,7 +32,7 @@ Admito que son conceptos que confunden bastante. Durante mi estudio y la lectura
 
 Si tenemos en cuenta que la **remediación** se centra en la adaptación y reinterpretación de un medio preexistente para crear un nuevo medio con nuevas propiedades y que la **hibridación** se puede dar en diferentes niveles: en la interacción con el medio, en el medio en sí o en ambos niveles. Podemos afirmar que la **remediación es un tipo de hibridación** en tanto en cuanto la estrategia de hibridación se da en el propio medio. Sin embargo, no podemos olvidar que el concepto de hibridación es mucho más amplio.
 
-Una vez aclarados los términos, en este ensayo mi intención es profundizar en el concepto de **hibridación** analizando de qué forma se produce dicha hibridación mediante el análisis de dos ejemplos de hibridación modernos como ClickUp y el Sistema de reconocimiento de plantas integrado en la aplicación Fotos de iPhone. 
+Una vez aclarados los términos, en este ensayo mi intención es profundizar en el concepto de **hibridación** analizando de qué forma se produce dicha hibridación mediante el análisis de dos ejemplos de hibridación modernos como ClickUp y Visual Look Up, un sistema de reconocimiento de plantas integrado en la aplicación Fotos de iPhone. 
 
 
 
